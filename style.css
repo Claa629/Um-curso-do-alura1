@@ -1,0 +1,12 @@
+:root{
+    --branco-principal: hwb(34 11% 25% / 0.664); 
+    --cinza-secundario: #f5ad42; 
+    --botão-azul: #167bf7; 
+    --cor-de-fundo: #fafafa;
+}
+
+body{
+    background-color:var(--cor-de-fundo);
+    color:var(--branco-principal); 
+}
+
